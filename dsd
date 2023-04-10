@@ -137,7 +137,7 @@ end)
 
 game.StarterGui:SetCore("SendNotification",  {
  Title = "envy";
- Text = "Thank for injecting quiet.cc!";
+ Text = "Thank for injecting envy!";
  Icon = "";
  Duration = 9;
 })
